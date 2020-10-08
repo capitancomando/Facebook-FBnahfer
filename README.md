@@ -8,7 +8,7 @@ $ apt update && apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone
+$ git clone https://github.com/capitancomando/Facebook-FBnahfer.git
 
 $ls
 
