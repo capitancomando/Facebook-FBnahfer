@@ -1,8 +1,8 @@
 # Facebook-FBnahfer
 
-Facebook Fuerza bruta
+📱Facebook Fuerza bruta📱
 
-comandos de instalacion
+📲comandos de instalacion📲
 
 $ apt update && apt upgrade -y
 
