@@ -10,7 +10,7 @@ $ pkg install git -y
 
 $ git clone https://github.com/capitancomando/Facebook-FBnahfer.git
 
-$ls
+$ ls
 
 $ cd Facebook-FBnahfer
 
