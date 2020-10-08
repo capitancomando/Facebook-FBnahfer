@@ -14,6 +14,6 @@ $ ls
 
 $ cd Facebook-FBnahfer
 
-$ chmod 711 Facebook-FBnahfer.sh
+$ chmod 711 Facebook-FBnahfer.py
 
-$ python2 Facebook-FBnahfer
+$ python2 Facebook-FBnahfer.py
